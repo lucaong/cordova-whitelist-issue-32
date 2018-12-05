@@ -1,0 +1,10 @@
+.DS_Store
+platforms/*/build
+platforms/android/.gradle
+platforms/android/app/build
+platforms/android/CordovaLib/build
+platforms/ios/Magaloop.xcarchive
+platforms/android/.idea/workspace.xml
+platforms/ios/Magaloop.xcodeproj/project.xcworkspace/xcuserdata
+resources/signing
+/node_modules
